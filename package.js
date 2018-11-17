@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Blaze configuration templates for HP ID OAuth.',
-  version: '0.0.2',
+  version: '0.0.3',
 });
 
 Package.onUse((api) => {
