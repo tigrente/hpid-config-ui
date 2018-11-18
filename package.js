@@ -1,4 +1,7 @@
 Package.describe({
+    name: 'tigrente:hpid-config-ui',
+    description: 'README.md',
+    git: 'https://github.com/tigrente/hpid-config-ui',
   summary: 'Blaze configuration templates for HP ID OAuth.',
   version: '0.0.3',
 });
