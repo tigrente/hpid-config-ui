@@ -1,3 +1,5 @@
+//todo: Test buttons with base configuration
+
 Package.describe({
     name: 'tigrente:hpid-config-ui',
     description: 'README.md',
