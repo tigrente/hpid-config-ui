@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Package.onUse((api) => {
-    api.use('ecmascript', 'client');
+    api.use('ecmascript@0.1.2', 'client');
     api.use('templating@1.2.13', 'client');
     api.addFiles('hpid_login_button.css', 'client');
     api.addFiles(
